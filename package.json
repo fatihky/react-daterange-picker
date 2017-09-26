@@ -1,5 +1,5 @@
 {
-  "name": "@fatihky/react-daterange-picker",
+  "name": "fatihky--react-daterange-picker",
   "version": "1.2.0",
   "description": "A React based date range picker",
   "author": "Jonathan Kim <jonathan.kim@onefinestay.com>",
